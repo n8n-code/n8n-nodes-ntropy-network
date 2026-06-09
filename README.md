@@ -53,13 +53,41 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Classifier | Get a batch of business transaction classification results, Get a batch of consumer transaction classification results |
-| Consumer | Get a batch of consumer transaction classification results |
-| Batch | Get a batch of consumer transaction classification results |
-| Business | Get a batch of business transaction classification results |
-| Batch 1 | Get a batch of business transaction classification results |
+<details>
+<summary><b>Classifier</b> (2 operations)</summary>
+
+- Get a batch of business transaction classification results
+- Get a batch of consumer transaction classification results
+
+</details>
+
+<details>
+<summary><b>Consumer</b> (1 operations)</summary>
+
+- Get a batch of consumer transaction classification results
+
+</details>
+
+<details>
+<summary><b>Batch</b> (1 operations)</summary>
+
+- Get a batch of consumer transaction classification results
+
+</details>
+
+<details>
+<summary><b>Business</b> (1 operations)</summary>
+
+- Get a batch of business transaction classification results
+
+</details>
+
+<details>
+<summary><b>Batch 1</b> (1 operations)</summary>
+
+- Get a batch of business transaction classification results
+
+</details>
 
 ---
 

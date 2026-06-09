@@ -8,7 +8,7 @@ import type {
 export class NtropyNetworkApi implements ICredentialType {
 	name = 'N8nDevNtropyNetworkApi';
 
-	displayName = 'ntropy-network API';
+	displayName = 'Ntropy Network API';
 
 	icon: Icon = { light: 'file:../nodes/NtropyNetwork/ntropy-network.png', dark: 'file:../nodes/NtropyNetwork/ntropy-network.dark.png' };
 
@@ -22,7 +22,7 @@ export class NtropyNetworkApi implements ICredentialType {
 			default: 'https://api.ntropy.network',
 			required: true,
 			placeholder: 'https://api.ntropy.network',
-			description: 'The base URL of your ntropy-network API server',
+			description: 'The base URL of your Ntropy Network API server',
 		},
 		{
 			displayName: 'API Key',

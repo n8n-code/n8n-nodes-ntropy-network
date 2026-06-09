@@ -7,14 +7,14 @@ import { batch1Description } from './resources/batch-1';
 
 export class NtropyNetwork implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'ntropy-network',
+		displayName: 'Ntropy Network',
 		name: 'N8nDevNtropyNetwork',
 		icon: { light: 'file:./ntropy-network.png', dark: 'file:./ntropy-network.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Ntropy Transaction API for transaction classification & management',
-		defaults: { name: 'ntropy-network' },
+		defaults: { name: 'Ntropy Network' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
